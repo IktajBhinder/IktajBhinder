@@ -45,9 +45,9 @@ Skilled in C++,Java, Python and DSA (Data Structures and Alogrithms)
 | Anaconda | SpyderIDE | Pycharm | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
-![Iktaj's Stats Card](https://github-readme-stats.vercel.app/api?username=IktajBhinder&show_icons=true&line_height=30&theme=midnight-purple)
+![Iktaj's Stats Card](https://github-readme-stats.vercel.app/api?username=IktajBhinder&hide=contribs,prs&show_icons=true&line_height=30&theme=midnight-purple)
 
-![Iktaj's Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IktajBhinder&&hide=contribs,prs&show_icons=true&line_height=30&theme=chartreuse-dark&layout=compact)
+![Iktaj's Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IktajBhinder&show_icons=true&line_height=30&theme=chartreuse-dark&layout=compact)
 
 
 
