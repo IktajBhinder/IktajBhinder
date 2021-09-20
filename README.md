@@ -32,7 +32,7 @@ Skilled in C++,Java, Python and DSA (Data Structures and Alogrithms)
 ### Languages and Tools-
 
 
-| C++ |  | JAVA|  C | SQL | 
+| C++ | JAVA|  C | SQL | 
 | :---:| :---:| :---: | :---: | 
 
 
