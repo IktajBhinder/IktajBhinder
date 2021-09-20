@@ -1,4 +1,4 @@
-### Hi there 👋<img align="right" alt="GIF" src=https://tenor.com/bqrUA.gif width="360"/>
+### Hi there 👋<img align="right" alt="GIF" src="https://tenor.com/bqrUA.gif" width="360"/>
 
 ### Hey there 👋 I'm Iktaj Singh Bhinder !!
 
