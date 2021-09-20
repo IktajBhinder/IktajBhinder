@@ -32,15 +32,15 @@ Skilled in C++,Java, Python and DSA (Data Structures and Alogrithms)
 ### Languages and Tools-
 
 
-| C++ |  | JAVA| C | SQL | 
-| :---: | :---: | :---: | :---: | :---: |
+| C++ |  | JAVA|  C | SQL | 
+| :---:  | :---:| :---: | :---: | 
 
 
 | Python | Matplotlib | Pandas | Numpy |
 | :---: | :---: | :---: | :---: | 
 
 | VS Code/Eclipse/Netbeans | JDBC | IBM Watson |IBM COGNOS|
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 
 | Anaconda | SpyderIDE | Pycharm | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
