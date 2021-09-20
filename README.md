@@ -23,9 +23,9 @@ Skilled in C++,Java, Python and DSA (Data Structures and Alogrithms)
 
 
 
-🌱 I’m currently Learning : Advaned applications of DSA in C++ and Java
+🌱 I’m currently practicing : Advaned applications of DSA in C++ and Java
 
-💬 Ask me about: C++,Python, Java, DSA (Data Structures and ALgorithms) and Big Data
+Always ready to talk about: C++,Python, Java, DSA (Data Structures and ALgorithms) and Big Data
 
 
 
@@ -36,16 +36,16 @@ Skilled in C++,Java, Python and DSA (Data Structures and Alogrithms)
 | :---:| :---:| :---: | :---: | 
 
 
-| Python | Matplotlib | Pandas | Numpy |
+| Python | Matplotlib |scikit | Numpy |
 | :---: | :---: | :---: | :---: | 
 
-| VS Code/Eclipse/Netbeans | JDBC | IBM Watson |IBM COGNOS|
+| VS Code/Eclipse| Weka |IBM COGNOS| IBM Watson Studio |
 | :---: | :---: | :---: | :---: |
 
-| Anaconda | SpyderIDE | Pycharm | Jupyter Notebook | Github |
+| Git| IBM SPSS | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
-![Iktaj's Stats Card](https://github-readme-stats.vercel.app/api?username=IktajBhinder&hide=contribs,prs&show_icons=true&line_height=30&theme=radical)
+![Iktaj's Stats Card](https://github-readme-stats.vercel.app/api?username=IktajBhinder&hide=contribs,prs&show_icons=true&line_height=30&theme=tokyonight)
 
 ![Iktaj's Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IktajBhinder&show_icons=true&line_height=30&theme=chartreuse-dark&layout=compact)
 
