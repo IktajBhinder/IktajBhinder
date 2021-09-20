@@ -5,7 +5,7 @@
 
 
 <a href="https://www.linkedin.com/in/iktaj-bhinder/">
-  <img align="left" alt="Iktaj Singh Bhinder Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+  <img align="left" alt="Iktaj Singh Bhinder Linkedin" width="22px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" />
   
 </a>
 
