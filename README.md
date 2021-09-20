@@ -11,7 +11,7 @@
 
 
 <a href="https://www.hackerrank.com/iktajbhinder?hr_r=1">
-  <img align="left" alt="Iktaj Singh Bhinder Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Iktaj Singh Bhinder Hackerrank" width="22px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
   
 </a>
 <br></br>
