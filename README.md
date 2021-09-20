@@ -33,7 +33,7 @@ Skilled in C++,Java, Python and DSA (Data Structures and Alogrithms)
 
 
 | C++ |  | JAVA|  C | SQL | 
-| :---:  | :---:| :---: | :---: | 
+| :---:| :---:| :---: | :---: | 
 
 
 | Python | Matplotlib | Pandas | Numpy |
@@ -47,7 +47,7 @@ Skilled in C++,Java, Python and DSA (Data Structures and Alogrithms)
 
 ![Iktaj's Stats Card](https://github-readme-stats.vercel.app/api?username=IktajBhinder&show_icons=true&line_height=30&theme=midnight-purple)
 
-![Iktaj's Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IktajBhinder&&hide=contribs,prsshow_icons=true&line_height=30&theme=chartreuse-dark&layout=compact)
+![Iktaj's Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IktajBhinder&&hide=contribs,prs&show_icons=true&line_height=30&theme=chartreuse-dark&layout=compact)
 
 
 
