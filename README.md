@@ -17,14 +17,15 @@
 <br></br>
 
 
-I am currently pursuing B.E. in CSE
-Skilled in C++,Java, Pyhon and DSA (Data Structures and Alogrithms)
+I am currently pursuing B.E. in CSE.
+</br>
+Skilled in C++,Java, Python and DSA (Data Structures and Alogrithms)
 
 
 
 🌱 I’m currently Learning : Advaned applications of DSA in C++ and Java
 
-💬 Ask me about: C++,Java, DSA (Data Structures and ALgorithms) and Big Data
+💬 Ask me about: C++,Python, Java, DSA (Data Structures and ALgorithms) and Big Data
 
 
 
