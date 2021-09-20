@@ -43,7 +43,7 @@ Always ready to talk about: C++,Python, Java, DSA (Data Structures and ALgorithm
 | :---: | :---: | :---: | :---: |
 
 | Git| IBM SPSS | Jupyter Notebook | Github |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | 
 
 ![Iktaj's Stats Card](https://github-readme-stats.vercel.app/api?username=IktajBhinder&hide=contribs,prs&show_icons=true&line_height=30&theme=tokyonight)
 
