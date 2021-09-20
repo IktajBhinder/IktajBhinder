@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Iktaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=IktajBhinder)](https://github.com/IktajBhinder/github-readme-stats)
+[https://cdn-icons-png.flaticon.com/512/174/174857.png] [https://www.linkedin.com/in/iktaj-bhinder/]
+[![Iktaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=IktajBhinder&hide=contribs,prs)
+)](https://github.com/IktajBhinder/github-readme-stats)
 
 <!--
 **IktajBhinder/IktajBhinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
