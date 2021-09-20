@@ -2,7 +2,7 @@
 
 <!--
 **IktajBhinder/IktajBhinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[https://cdn-icons-png.flaticon.com/512/174/174857.png] = [https://www.linkedin.com/in/iktaj-bhinder/]
+[https://cdn-icons-png.flaticon.com/512/174/174857.png] [https://www.linkedin.com/in/iktaj-bhinder/]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
