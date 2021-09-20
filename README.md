@@ -1,10 +1,11 @@
 ### Hi there 👋
+[![Iktaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=IktajBhinder)](https://github.com/IktajBhinder/github-readme-stats)
 
 <!--
 **IktajBhinder/IktajBhinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [https://cdn-icons-png.flaticon.com/512/174/174857.png] [https://www.linkedin.com/in/iktaj-bhinder/]
 Here are some ideas to get you started:
-[![Iktaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=IktajBhinder)](https://github.com/anuraghazra/github-readme-stats)
+[![Iktaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=IktajBhinder)](https://github.com/IktajBhinder/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
