@@ -16,10 +16,10 @@
 </a>
 <br></br>
 
-
-I am currently pursuing B.E. in CSE.
+I am currentl a Software Development Engineer - 2, at Servicenow. Prior, I was Software Development Engineer -1, at Servicenow.
+I am a glod medalist in  B.E.(Hons.) in CSE.
 </br>
-Skilled in C++,Java, Python and DSA (Data Structures and Alogrithms)
+Skilled in C++,Java, Python and DSA (Data Structures and Alogrithms), and Servicenow Development.
 
 
 
